@@ -10,9 +10,7 @@ The results can be seen on my website: http://www.pezeuy.com and the superiority
 To reproduce the results just clone the repo, navigate to TFGAN and run python TFGAN.py. Then navigate to Conv_GAN and run python Conv_GAN.py 
 Then you can run create_gif.py to create the gif animation of the network training.
 
-SimpleGAN:
-![simpleGan](https://github.com/YannickPezeu/GANs/blob/master/simpleGan.png)
 
-
-ConvGan: 
-![convGan](https://github.com/YannickPezeu/GANs/blob/master/convGan.png)
+simpleGAN | ![simpleGan](https://github.com/YannickPezeu/GANs/blob/master/simpleGan.png) 
+--- | --- 
+convGAN | ![convGan](https://github.com/YannickPezeu/GANs/blob/master/convGan.png) 
