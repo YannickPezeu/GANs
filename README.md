@@ -5,7 +5,7 @@ Generative adversarial network learning to draw MNIST
 
 ## 2 Conv_GAN is a custom implementation I realized with pytorch using convolution layers.
 
-The results can be seen on my website: http://www.pezeuy.com and the superiority of the convolutional version is shoking.
+The results can be seen on my website: http://www.pezeuy.com and the superiority of the convolutional version is obvious.
 
-To reproduce the results just clone the repo and run python TFGAN/TFGAN.py and python Conv_GAN/Conv_GAN.py 
+To reproduce the results just clone the repo, navigate to TFGAN and run python TFGAN.py. Then navigate to Conv_GAN and run python Conv_GAN.py 
 Then you can run create_gif.py to create the gif animation of the network training.
